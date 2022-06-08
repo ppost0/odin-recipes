@@ -42,6 +42,7 @@ img.home {
 }
 
 
-a button.backbutton {
+button {
+  font-size: 2px;
   color: blue;
 }
