@@ -1,0 +1,32 @@
+* {
+  background-color: #2d2d2d
+}
+
+.home.title {
+  color: #de2929;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 2000;
+  font-family: cursive, 'Brush Script MT';
+  margin-bottom: 10px;
+}
+
+div.home {
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
+  width: 800px;
+  height: 500px;
+  border: 2px black;
+  border-style: groove;
+}
+
+img.home {
+  width:820px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+
