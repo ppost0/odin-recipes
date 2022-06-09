@@ -1,5 +1,5 @@
 * {
-  background-color: #1c1b1b
+  background-color: #283128
 }
 
 .home.title {
@@ -41,8 +41,51 @@ img.home {
   color: #de2929;
 }
 
+/* back button */
+button.backbutton{
+  color: #de2929;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #3b3b3b;
+}
 
-button {
-  font-size: 2px;
-  color: blue;
+.recipe-title {
+  text-align: center;
+  color: #de2929;
+  font-family: fantasy;
+  font-weight: 3000;
+  font-size: 60px;
+  margin-bottom: 0px;
+}
+
+img.recipe-img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 500px;
+  width: auto;
+  border: 4px black;
+  border-style: solid;
+}
+
+/* description title */
+h2 {
+  color: #de2929;
+  text-align: left;
+  text-indent: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Description text */
+p.description {
+  color: #d44242;
+  text-indent: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* ingredients title */
+h3 {
+  color: #de2929;
+  text-indent: 20px;
+  font-family: 'Courier New', Courier, monospace;
 }
