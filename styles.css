@@ -1,5 +1,5 @@
 * {
-  background-color: #283128
+  background-color: #1a1f1a
 }
 
 .home.title {
@@ -87,5 +87,20 @@ p.description {
 h3 {
   color: #de2929;
   text-indent: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+  color: #de2929;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul strong {
+  color: #de2929;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ol li {
+  color: #de2929;
   font-family: 'Courier New', Courier, monospace;
 }
